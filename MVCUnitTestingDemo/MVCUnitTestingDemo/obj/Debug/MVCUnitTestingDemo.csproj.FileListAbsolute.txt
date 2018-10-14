@@ -37,3 +37,40 @@ c:\users\ashish.rathod\documents\visual studio 2013\Projects\MVCUnitTestingDemo\
 c:\users\ashish.rathod\documents\visual studio 2013\Projects\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.csprojResolveAssemblyReference.cache
 c:\users\ashish.rathod\documents\visual studio 2013\Projects\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.dll
 c:\users\ashish.rathod\documents\visual studio 2013\Projects\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.pdb
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\MVCUnitTestingDemo.dll.config
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\MVCUnitTestingDemo.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\MVCUnitTestingDemo.pdb
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\Antlr3.Runtime.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\EntityFramework.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\Newtonsoft.Json.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\nunit.framework.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Net.Http.Formatting.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.Http.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.Http.WebHost.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.Mvc.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.Optimization.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.Providers.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.Razor.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.WebPages.Deployment.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.WebPages.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.WebPages.Razor.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\WebGrease.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Net.Http.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\nunit.framework.pdb
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\nunit.framework.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\EntityFramework.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\Newtonsoft.Json.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Net.Http.Formatting.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.Http.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.Http.WebHost.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.Mvc.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.Razor.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.WebPages.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.WebPages.Deployment.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.WebPages.Razor.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Net.Http.xml
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.csprojResolveAssemblyReference.cache
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.dll
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.pdb
