@@ -13,7 +13,7 @@ namespace MVCUnitTestingDemo.Controllers
 
         public ActionResult Index()
         {
-            //test1
+            //test
             return View();
         }
 
