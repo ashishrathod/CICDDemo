@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using MVCUnitTestingDemo;
-using MVCUnitTestingDemo.Controllers;
+using MVCUnitTestingDemo.MyControllers;
 using System.Web.Mvc;
 
 namespace MVCUnitTestingDemo.Tests

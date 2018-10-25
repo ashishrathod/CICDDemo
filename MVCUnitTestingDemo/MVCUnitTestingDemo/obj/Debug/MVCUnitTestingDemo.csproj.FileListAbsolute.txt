@@ -71,6 +71,8 @@ E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.WebPages.xml
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.WebPages.Deployment.xml
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Web.WebPages.Razor.xml
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\bin\System.Net.Http.xml
-E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.csprojResolveAssemblyReference.cache
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.dll
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.pdb
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.csprojAssemblyReference.cache
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.csproj.CoreCompileInputs.cache
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo\obj\Debug\MVCUnitTestingDemo.csproj.CopyComplete

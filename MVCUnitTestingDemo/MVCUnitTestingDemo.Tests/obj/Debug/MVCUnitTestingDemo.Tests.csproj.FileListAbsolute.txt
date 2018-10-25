@@ -64,6 +64,9 @@ E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\bin\Debug\System.Web.Web
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\bin\Debug\System.Net.Http.xml
-E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.csprojResolveAssemblyReference.cache
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.dll
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.pdb
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\bin\Debug\MVCUnitTestingDemo.dll.config
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.csprojAssemblyReference.cache
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.csproj.CoreCompileInputs.cache
+E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.csproj.CopyComplete
