@@ -70,3 +70,6 @@ E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\bin\Debug\MVCUnitTesting
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.csprojAssemblyReference.cache
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.csproj.CoreCompileInputs.cache
 E:\CICDRepo\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.csproj.CopyComplete
+E:\CICD\trunk\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.csprojResolveAssemblyReference.cache
+E:\CICD\trunk\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.dll
+E:\CICD\trunk\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.pdb
